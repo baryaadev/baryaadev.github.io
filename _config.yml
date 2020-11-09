@@ -43,9 +43,9 @@ app:
 # Marketing
 #
 marketing_header: Find friends to play with! # Optional
-marketing_desc: We all meet great people while playing AU.
+marketing_desc: "We all meet great people while playing AU.
 Hard to find them again - but with this app, you can find your friends from the game and play with them again!
-You can also discuss gaming in general, or whatever you like - but don't share your private information!
+You can also discuss gaming in general, or whatever you like - but don't share your private information!"
 
 #
 # Social Links
